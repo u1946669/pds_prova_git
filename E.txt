@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 canvia E1 branca 3
+=======
+Canvi E1 branca 4
+>>>>>>> branca4
